@@ -6,9 +6,9 @@ using namespace std;
 
 int main()
 {
-	cout << "Estrutura de Dados - Fatec" << endl;
+	cout << "Samuel Peres fui eu que fiz" << endl;
 	
-	cout << "Todos os tipos de numeros que existem no mundo\n";
+	cout << "Vamos ver tipos de dados!!!!!\n";
 	cout << "===============\n";
 	int i = 10;
 	short s = 18;
